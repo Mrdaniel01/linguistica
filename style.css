@@ -101,8 +101,8 @@ section article{
 	box-shadow: var(--shadow);
 }
 
-section article button{
-	width: 30%;
+section article a button{
+	width: 70px;
 	height: 30px;
 	border: none;
 	cursor: pointer;
@@ -111,7 +111,7 @@ section article button{
 	background-color: var(--dark-color);
 	color: var(--white);
 }
-section article button:hover{
+section article a button:hover{
 	transform: scale(1.1);
 	background-color: var(--secondary-color);
 	color: var(--white);
