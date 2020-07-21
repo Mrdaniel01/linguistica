@@ -142,3 +142,26 @@ section article a button:hover{
 	margin-left: 20px;
 }
 
+/*________ QUIZ */
+
+.quiz__title {
+	margin: 20px auto;
+	text-transform: uppercase;
+}
+
+.quiz_article{
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-items: center;
+	align-items: center;
+}
+
+.quiz_page{
+	padding-top: 30px;
+}
+
+.quiz_page iframe{
+	width:"600px";
+	height:"900px";
+}
