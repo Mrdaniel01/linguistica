@@ -119,4 +119,26 @@ section article a button:hover{
 }
 
 
+/*____ JUEGOS.HTML*/
+
+.juegos__title{
+	text-transform: uppercase;
+	margin: 20px auto;
+}
+
+.juego__article,
+.juego__sopa { 
+	width: 80%;
+	height: auto;
+	text-align: center;
+}
+
+.juego__crucigrama {
+	max-width: 100%;
+}
+
+.juego__descripcion {
+	text-align: left;
+	margin-left: 20px;
+}
 
